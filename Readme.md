@@ -11,4 +11,4 @@
 <p>Now, lets to next feature that can help us to recover the email & password its. From that picture, we can know that we can recover the email and password using nrp and password integra. But the nrp form is using old format that just 10 digit, and the new format is need 14 digit, from this, the feature is a little useless because we don't know how to convert from new format to old format, if we know, there is no guarantee our data will exist</p>
 <br>
 <h4>Video Review for <i>https//mail2.its.ac.id/</i> and <i>https://webmail.its.ac.id/src/login.php?bag=lupa</i></h4>
-<a href="https://youtu.be/dbj9jNwaALw">Click this link</a>
+<a href="https://www.youtube.com/watch?v=dbj9jNwaALw&feature=youtu.be">Click this link</a>
